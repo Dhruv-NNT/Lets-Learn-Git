@@ -1,5 +1,5 @@
-def addnums(a,b):
-    num = a+b
+def addnums(a,b,c):
+    num = a+b+c
     return num
-print(addnums(54,232))
+print(addnums(54,232,3322))
 
